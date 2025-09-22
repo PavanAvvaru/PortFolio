@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 15px;
-    background: linear-gradient(45deg, #3498db, #2ecc71, #e74c3c);
+    background: linear-gradient(45deg,#2ecc71, #3498db, #e74c3c);
     color: #333;
 }
 
@@ -156,5 +156,6 @@ footer a:hover {
     color: #4166ed; 
 
 }
+
 
 
