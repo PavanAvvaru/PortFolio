@@ -129,6 +129,8 @@ nav a:hover {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+    color: black;
+      
 }
 
 .contact-info img {
@@ -155,14 +157,4 @@ footer a:hover {
 
 }
 
-<style>
-  #contact .contact-info a {
-    color: #1a73e8;
-    font-weight: bold;
-    text-decoration: none;
-  }
 
-  #contact .contact-info a:hover {
-    color: #d93025;
-  }
-</style>
