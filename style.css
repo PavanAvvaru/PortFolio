@@ -152,4 +152,17 @@ footer a {
 
 footer a:hover {
     color: #4166ed; 
+
 }
+
+<style>
+  #contact .contact-info a {
+    color: #1a73e8;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  #contact .contact-info a:hover {
+    color: #d93025;
+  }
+</style>
